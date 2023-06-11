@@ -1,0 +1,19 @@
+{
+    "rrds":[
+        {
+            "id": 1,
+            "rrdNum": 1,
+            "rrdType": 1,
+            "address": "Av Bezerra de Menezes",
+            "addresNum": 1022,
+            "addressReferences": 1,
+            "date": "10/06/2023",
+            "boatNum": 105500,
+            "infractionCod": 75790,
+            "infractionDescription": "Conduzir veiculo sob efeito de alcool",
+            "notes": "Veículo abordado em blitz",
+            "deadline": 10,
+            "agentNum": 88219
+        }
+    ]
+}
