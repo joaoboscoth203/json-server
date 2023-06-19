@@ -20,37 +20,44 @@
     {
      "id": 1,
      "num": 155,
-     "licensePlate": "HYN-6833" 
+     "licensePlate": "HYN-6833",
+     "model": "Onix"
     },
     {
      "id": 2,
      "num": 156,
-     "licensePlate": "NQM6188"
+     "licensePlate": "NQM6188",
+     "model": "Onix"
     },
     {
      "id": 3,
      "num": 157,
-     "licensePlate": "HHH-1212"
+     "licensePlate": "HHH-1212",
+     "model": "L200"
     },
     {
      "id": 4,
      "num": 158,
-     "licensePlate": "HYY-1313"
+     "licensePlate": "HYY-1313",
+     "model": "Ranger"
     },
     {
      "id": 5,
      "num": 159,
-     "licensePlate": "HXX-1314"
+     "licensePlate": "HXX-1314",
+     "model": "Van"
     },
     {
      "id": 6,
      "num": 160,
-     "licensePlate": "HXY-1515"
+     "licensePlate": "HXY-1515",
+     "model": "Furgão"
     },
     {
      "id": 7,
      "num": 161,
-     "licensePlate": "HXY-3355"
+     "licensePlate": "HXY-3355",
+     "model": "Montana"
     }
   ] 
 }
